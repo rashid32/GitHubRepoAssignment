@@ -1,0 +1,12 @@
+cd desktop
+mkdir GitHubAssignment
+cd GitHubAssignment
+git init
+touch readme.md
+git add readme.md
+git commit m-"my first file added repo"
+git status
+git remote add origin https://github.com/rashid32/GitHubRepoAssignment.git
+git push -u origin master
+
+
